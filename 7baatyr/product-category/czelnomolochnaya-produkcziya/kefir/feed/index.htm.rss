@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Кефир &#8212; Новогрудские дары</title>
+	<atom:link href="http://novdar.by/product-category/czelnomolochnaya-produkcziya/kefir/feed/" rel="self" type="application/rss+xml" />
+	<link>http://novdar.by</link>
+	<description>С нами вкусно и полезно</description>
+	<lastBuildDate>Tue, 09 Jun 2020 14:03:13 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+
+<image>
+	<url>http://novdar.by/wp-content/uploads/2020/05/cropped-favicon-32x32.png</url>
+	<title>Кефир &#8212; Новогрудские дары</title>
+	<link>http://novdar.by</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Кефир</title>
+		<link>http://novdar.by/product/kefir/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2020 12:55:09 +0000</pubDate>
+				<guid isPermaLink="false">http://site58.saitodrom.by/?post_type=product&#038;p=315</guid>
+
+					<description><![CDATA[Кефир отличается от других кисломолочных продуктов уникальным набором бактерий и грибков, входящих в его состав. Кефир, как и другие кисломолочные продукты, оказывает пробиотическое воздействие, то есть благоприятно влияет на микрофлору кишечника и обмен веществ в целом. Благодаря своему сложному составу, кефир может препятствовать развитию в кишечнике патогенной флоры.]]></description>
+										<content:encoded><![CDATA[<p>Кефир отличается от других кисломолочных продуктов уникальным набором бактерий и грибков, входящих в его состав.</p>
+<p>Кефир, как и другие кисломолочные продукты, оказывает пробиотическое воздействие, то есть благоприятно влияет на микрофлору кишечника и обмен веществ в целом. Благодаря своему сложному составу, кефир может препятствовать развитию в кишечнике патогенной флоры.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
