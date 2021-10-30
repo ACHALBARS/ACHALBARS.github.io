@@ -1,0 +1,17 @@
+JavaScript:
+var elems = document.getElementsByClassName("q_container");
+    for(var i = 0; i < elems.length; i++)
+        if (elems[i].style.display == "block" || elems[i].style.display != "block" && elems[i].style.display != "none")
+        {
+        var main = elems[i].id;
+        var x = main.replace(/^.{4}/, '');
+        var right = $(document.getElementById(main).getElementsByClassName("answ_normal right")).attr("data-id");
+        alert(right);
+    }
+
+--------------
+
+
+И сдаем экзамен без единой ошибки xD. На случай, если будем затрудняться написать весь код в консоль, то сохраняем вышеуказанный код в скрипт с расширением .js и загружаем на любой сервер, который даст нам к нему прямой доступ. Для вызова скрипта, в консоли нужно будет написать одну строчку
+JavaScript:
+(function(d,s){s=d.createElement('script');s.src='http://путь до вашего скрипта .js';(d.head||d.documentElement).appendChild(s)})(document);
